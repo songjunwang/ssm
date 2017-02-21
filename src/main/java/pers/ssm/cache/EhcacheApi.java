@@ -1,4 +1,4 @@
-package pers.wsj.ssm.cache;
+package pers.ssm.cache;
 
 import org.ehcache.Cache;
 import org.ehcache.CacheManager;
